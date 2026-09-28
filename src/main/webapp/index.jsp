@@ -124,7 +124,7 @@
                 <div class="card-body">
                     <h2 class="name">Thor Ragnarok</h2>
                     <h6 class="des">Lakshmi ipsum dolor sit consectetur elit.</h6>
-                    <button class="watchlist-btn">add to watchlist</button>
+                    <button class="watchlist-btn">add to watchlistS</button>
                 </div>
             </div>
             <div class="card">
